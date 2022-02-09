@@ -1,5 +1,5 @@
 name = ['Dave','Lazar','Darius','Tony']
-
+print (name)
 max = len(name)
 
 myname = input('type name to find ')
